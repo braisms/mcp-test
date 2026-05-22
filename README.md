@@ -1,2 +1,1 @@
-# mcp-test
-Repositorio de prueba creado desde Kaia Portal
+esto es una prueba desde kaia portal
